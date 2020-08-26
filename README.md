@@ -4,7 +4,7 @@
 
 I am in my final year of B.Tech in CSE at IIT Roorkee, India.
 
-I like to make video games and the technology that runs them in my free time.
+I like to make video games and the technologies that run them, in my free time.
 
 ---
 
